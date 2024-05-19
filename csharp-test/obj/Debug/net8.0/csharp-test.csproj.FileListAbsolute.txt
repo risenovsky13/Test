@@ -1,0 +1,15 @@
+/workspaces/Test/csharp-test/bin/Debug/net8.0/csharp-test
+/workspaces/Test/csharp-test/bin/Debug/net8.0/csharp-test.deps.json
+/workspaces/Test/csharp-test/bin/Debug/net8.0/csharp-test.runtimeconfig.json
+/workspaces/Test/csharp-test/bin/Debug/net8.0/csharp-test.dll
+/workspaces/Test/csharp-test/bin/Debug/net8.0/csharp-test.pdb
+/workspaces/Test/csharp-test/obj/Debug/net8.0/csharp-test.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Test/csharp-test/obj/Debug/net8.0/csharp-test.AssemblyInfoInputs.cache
+/workspaces/Test/csharp-test/obj/Debug/net8.0/csharp-test.AssemblyInfo.cs
+/workspaces/Test/csharp-test/obj/Debug/net8.0/csharp-test.csproj.CoreCompileInputs.cache
+/workspaces/Test/csharp-test/obj/Debug/net8.0/csharp-test.sourcelink.json
+/workspaces/Test/csharp-test/obj/Debug/net8.0/csharp-test.dll
+/workspaces/Test/csharp-test/obj/Debug/net8.0/refint/csharp-test.dll
+/workspaces/Test/csharp-test/obj/Debug/net8.0/csharp-test.pdb
+/workspaces/Test/csharp-test/obj/Debug/net8.0/csharp-test.genruntimeconfig.cache
+/workspaces/Test/csharp-test/obj/Debug/net8.0/ref/csharp-test.dll
